@@ -1,0 +1,3 @@
+The trajectory file format is .pdb. 
+1ns trajectroy with 10ps timestep.
+The total calculation time is 5ns with 1fs timestep.
